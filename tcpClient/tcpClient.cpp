@@ -1,5 +1,6 @@
 ﻿// tcpClient.cpp : 此文件包含 "main" 函数。程序执行将在此处开始并结束。
 //
+// TcpClientlmpl C++标准库下的tcp客户端类，可直接在构造函数中添加IP和port使用
 
 #include <iostream>
 #include "TcpClientlmpl.h"
